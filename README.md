@@ -22,7 +22,7 @@ Make sure you have Node.js and npm installed on your machine.
 Installation
 Clone the repo
 Copy code"
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/Arathypr/Frontend_ToDoApp.git
 
 Install NPM packages
 npm install
