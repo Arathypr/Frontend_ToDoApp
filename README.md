@@ -24,7 +24,7 @@ Clone the repo
 Copy code"
 git clone https://github.com/Arathypr/Frontend_ToDoApp.git
 
-Install NPM packages
+Install NPM packages:
 npm install
 
 
@@ -32,7 +32,7 @@ To start the development server, run:
 npm run dev
 This will launch the application in development mode.
 
-Dependencies
+Dependencies:
 This project utilizes the following additional packages:
 
 Axios
